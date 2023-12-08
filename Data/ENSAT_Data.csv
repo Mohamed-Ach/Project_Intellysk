@@ -1,0 +1,295 @@
+Numero appoge,Last Name,First Name,sex,age,City,Annee,Filier,Matiere,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,activities,internet,romantic,famrel,freetime,Dciga,Wciga,health,absences,CC1
+20002427,AABOUD,AYA,F,20,Tanger,2023,GIL,Dessin,GT3,A,4,4,at_home,teacher,course,mother,2,2,0,yes,no,no,no,4,3,1,1,3,6,5
+20000737,AATIFI,KHAOULA,F,20,Casablanca,2023,GSEA,Electronique,GT3,T,1,1,at_home,other,course,father,1,2,0,no,no,yes,no,5,3,1,1,3,4,5
+19006762,ABBAD,SOUFYANE,M,20,Tanger,2023,GSEA,Electronique,LE3,T,1,1,at_home,other,other,mother,1,2,3,yes,no,yes,no,4,3,2,3,3,10,7
+20007037,ABDELNABY,DOUNIA,F,20,Agadir,2023,GSTR,Reseaux,GT3,T,4,2,health,services,home,mother,1,3,0,no,yes,yes,yes,3,2,1,1,5,2,15
+20002668,ABDESSETTAR,CHOROUK,F,20,Houssima,2023,GSEA,Electronique,GT3,T,3,3,other,other,home,father,1,2,0,no,no,no,no,4,3,1,2,5,4,6
+20000773,ABETIOU,SOFIANE,M,20,Larache,2023,GINF,C++,LE3,T,4,3,services,other,reputation,mother,1,2,0,no,yes,yes,no,5,4,1,2,5,10,15
+20000517,ABOUHASBA,YOUSSEF,M,20,Meknes,2023,G3EI,Energie,LE3,T,2,2,other,other,home,mother,1,2,0,no,no,yes,no,4,4,1,1,3,0,12
+20000490,ABOULAICH,HANAE,F,20,Temera,2023,GSEA,Electronique,GT3,A,4,4,other,teacher,home,mother,2,2,0,yes,no,no,no,4,1,1,1,1,6,6
+20002429,ABOULHANA,SOUFIAN,M,20,Tanger,2023,GSTR,Reseaux,LE3,A,3,2,services,other,home,mother,1,2,0,no,no,yes,no,4,2,1,1,1,0,16
+20007171,ABOUTABIT,ILIASS,M,20,Tanger,2023,GSEA,Electronique,GT3,T,3,4,other,other,home,mother,1,2,0,no,yes,yes,no,5,5,1,1,5,0,14
+19002758,ACHABBAK,HANAE,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,4,teacher,health,reputation,mother,1,2,0,no,no,yes,no,3,3,1,2,2,0,10
+19006564,ACHE,YOUSSEF,M,20,Tanger,2023,G3EI,Energie,GT3,T,2,1,services,other,reputation,father,3,3,0,no,yes,yes,no,5,2,1,1,4,4,10
+19001211,ACHERNAN,MOHAMED,M,20,Tanger,2023,GINF,C++,LE3,T,4,4,health,services,course,father,1,1,0,no,yes,yes,no,4,3,1,3,5,2,14
+19001137,AFOUD,HIND,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,other,course,mother,2,2,0,no,no,yes,no,5,4,1,2,3,2,10
+20002529,AGBALO BAGOZ,SOUAD,F,20,Tanger,2023,GIL,Dessin,GT3,A,2,2,other,other,home,other,1,3,0,no,no,yes,yes,4,5,1,1,3,0,14
+20002264,AGHLOUL,YOUSSRA,F,20,Casablanca,2023,GSEA,Electronique,GT3,T,4,4,health,other,home,mother,1,1,0,no,no,yes,no,4,4,1,2,2,4,14
+19005842,AHOUZI,HASNAE,F,20,Tetouan,2023,GIL,Dessin,GT3,T,4,4,services,services,reputation,mother,1,3,0,no,yes,yes,no,3,2,1,2,2,6,13
+20000720,AHRAUI,MOHAMED ALI,M,20,Agadir,2023,GIL,Dessin,GT3,T,3,3,other,other,reputation,mother,3,2,0,yes,yes,no,no,5,3,1,1,4,4,8
+19006277,AIT ALLA,HAJAR,F,20,Ouajda,2023,GIL,Dessin,GT3,T,3,2,services,services,course,mother,1,1,3,no,yes,yes,no,5,5,2,4,5,16,6
+20000747,AIT OUFKIR,AYA,F,20,Casablanca,2023,G3EI,Energie,LE3,T,4,3,health,other,home,father,1,1,0,no,yes,yes,no,3,1,1,3,5,4,8
+20000734,AIT OUKHADOU,SELMA,F,20,Casablanca,2023,GINF,C++,GT3,T,4,3,teacher,other,reputation,mother,1,2,0,no,no,yes,no,4,4,1,1,1,0,13
+18008797,AJAANIT,RACHAD,M,20,Casablanca,2023,GIL,Dessin,GT3,T,4,4,health,health,other,father,1,1,0,no,no,yes,no,5,4,1,1,5,0,12
+20000733,AJAN,HIBA,F,20,Casablanca,2023,GSEA,Electronique,LE3,T,4,2,teacher,other,course,mother,1,2,0,no,yes,yes,no,4,5,1,3,5,2,15
+20002131,AKHROUF,YASER,M,20,Casablanca,2023,GSTR,Reseaux,LE3,T,2,2,other,other,reputation,mother,2,2,0,no,yes,yes,no,5,4,2,4,5,0,13
+20000761,AKIIRNE,AMAL,F,20,Casablanca,2023,GINF,C++,GT3,T,2,4,services,health,course,mother,1,3,0,yes,yes,yes,no,4,3,1,1,5,2,10
+20000735,AKRIKEZ,KAOUTAR,F,20,Casablanca,2023,GIL,Dessin,GT3,T,2,2,services,services,home,mother,1,1,2,no,no,yes,no,1,2,1,3,5,14,6
+19001266,ALILOUCH,IKRAM,F,20,Casablanca,2023,GSEA,Electronique,GT3,T,2,2,other,other,home,mother,1,1,0,no,no,yes,no,4,2,1,2,5,2,12
+19005849,AMCHAAROU,HAJAR,F,20,Casablanca,2023,G3EI,Energie,GT3,T,4,2,health,services,other,mother,1,1,0,no,no,yes,no,2,2,2,4,1,4,15
+19001276,AMHAOUECH,WIAM,F,20,Mohammedia,2023,GINF,C++,LE3,A,3,4,services,other,home,mother,1,2,0,yes,yes,yes,no,5,3,1,1,5,4,11
+20001244,AMINE,TAHA,M,20,Taroudant,2023,GINF,C++,GT3,T,4,4,teacher,teacher,home,mother,1,2,0,no,yes,yes,yes,4,4,5,5,5,16,10
+20010886,AMRANI ZEKKARI,SALMANE,M,20,El Jadida,2023,GIL,Dessin,GT3,T,4,4,health,services,home,mother,1,2,0,no,no,yes,no,5,4,3,4,5,0,9
+18008683,ANBOURI,ZAKARIA,M,20,T‚touan,2023,GIL,Dessin,GT3,T,4,4,services,services,reputation,mother,2,2,0,no,yes,yes,no,4,3,1,1,5,0,17
+20000767,AOUMI,MERIEM,F,20,Nador,2023,G3EI,Energie,GT3,T,4,3,teacher,at_home,course,mother,1,2,0,no,yes,yes,yes,4,5,1,1,5,0,17
+20000493,ARRAB,HAFSA,F,20,B‚ni Mellal,2023,GINF,C++,LE3,T,3,3,other,other,course,mother,1,2,0,no,yes,yes,no,5,3,1,1,2,0,8
+20002550,ASSALA,NISSRINE,F,20,B‚ni Mellal,2023,GSEA,Electronique,GT3,T,3,2,other,other,home,mother,1,1,0,no,no,yes,no,5,4,1,1,5,0,12
+19006378,ASSERRAR,AYMANE,M,20,B‚ni Mellal,2023,GSEA,Electronique,GT3,T,2,3,other,other,other,father,2,1,0,no,yes,no,no,3,5,1,1,5,0,8
+19002234,"AULAD BEN
+HARDON",OUMAIMA,F,20,B‚ni Mellal,2023,G3EI,Energie,LE3,T,4,3,teacher,services,home,mother,1,3,0,no,yes,yes,no,5,4,1,1,4,2,15
+19006838,AYI,IMANE,F,20,B‚ni Mellal,2023,GSEA,Electronique,GT3,A,4,4,other,teacher,reputation,mother,2,3,0,no,yes,yes,yes,2,4,1,1,5,7,15
+20002242,AZZAB,OUSSAMA,M,20,Mohammedia,2023,GSEA,Electronique,GT3,T,3,4,services,health,course,mother,1,3,0,yes,yes,yes,no,4,3,1,1,5,2,12
+19002231,BADAOUI,"MOHAMED
+AMINE",M,20,Mohammedia,2023,G3EI,Energie,GT3,T,2,2,at_home,other,reputation,mother,1,1,0,yes,yes,no,no,4,3,1,1,2,8,14
+20007003,BADR,FATIMA,F,20,Mohammedia,2023,GSEA,Electronique,LE3,T,2,2,other,other,home,mother,2,2,1,no,yes,yes,yes,3,3,1,2,3,14,7
+18008446,BADRI,"AHMED
+BOUAZZA",M,20,Mohammedia,2023,GSTR,Reseaux,LE3,T,4,4,teacher,other,home,other,1,1,0,no,no,yes,yes,5,4,2,4,5,8,12
+20006988,BAJJI,AMINE,M,20,Mohammedia,2023,GINF,C++,GT3,T,4,4,services,teacher,course,father,1,2,0,no,yes,yes,no,4,3,1,1,5,2,19
+18003412,BAKALI,SOUMAYA,F,20,Mohammedia,2023,GSTR,Reseaux,GT3,T,2,2,services,services,course,father,1,1,0,yes,no,yes,no,5,4,1,1,1,0,8
+20002437,BAKKAL,NADA,F,20,Mohammedia,2023,GSTR,Reseaux,LE3,T,2,2,other,at_home,course,father,2,2,1,yes,yes,yes,no,4,3,2,2,5,14,10
+20007006,BALOUNSI,"MOHAMED
+AMINE",M,20,Mohammedia,2023,G3EI,Energie,LE3,A,4,3,other,other,course,mother,1,2,0,yes,yes,yes,yes,5,2,1,1,5,8,8
+19006135,BECHAINE,DOUAE,F,20,Chefchaouen,2023,GSTR,Reseaux,LE3,A,3,3,other,services,home,mother,1,2,0,no,no,yes,no,2,3,1,4,3,12,11
+20002555,BELACHHEB,"MOHAMED
+NABIL",M,20,Tanger,2023,GIL,Dessin,GT3,T,4,3,health,services,reputation,mother,1,4,0,no,yes,yes,no,4,2,1,1,2,4,19
+19006779,BELAFKIR,YOUSSEF,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,2,teacher,other,home,mother,1,2,0,no,no,no,no,4,3,2,2,5,2,15
+18008423,BELAIDI,ZAKARYAE,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,services,teacher,other,father,1,2,1,yes,yes,yes,no,4,4,1,1,3,2,7
+20002116,BELBAH,HIND,F,20,Tanger,2023,GSTR,Reseaux,LE3,T,2,2,services,services,course,mother,3,2,0,no,no,yes,no,4,3,2,3,4,2,12
+19001543,BELHASSAN,MAJDA,F,20,Tanger,2023,GSEA,Electronique,LE3,T,4,2,health,other,other,mother,1,2,0,no,no,yes,no,4,3,1,1,5,2,11
+19006398,BEN  ALI,FAHD,M,20,Tanger,2023,GSTR,Reseaux,LE3,A,4,2,health,health,other,father,2,1,1,no,no,no,no,5,5,3,4,5,6,11
+20007158,BEN AOUITTA,MOUHSINE,M,20,Tanger,2023,GIL,Dessin,GT3,T,4,4,services,services,course,mother,1,1,0,yes,no,yes,no,3,3,2,3,5,0,8
+20002671,BEN CHOAIB,ALAE,M,20,Tanger,2023,GSTR,Reseaux,LE3,A,3,3,other,other,other,mother,1,1,0,no,no,yes,no,5,3,4,4,1,6,10
+20007004,BEN DAOUD,HANANE,F,20,El Jadida,2023,GIL,Dessin,GT3,A,2,1,other,other,other,mother,1,2,0,no,yes,yes,yes,5,3,1,1,2,8,8
+18008803,BEN SALAH,MAHMOUD,M,20,Houssima,2023,GIL,Dessin,GT3,A,4,3,services,services,reputation,mother,1,2,0,no,yes,yes,no,4,3,1,1,1,0,14
+18002717,BEN THAMI,MANAL,F,20,Houssima,2023,GSTR,Reseaux,GT3,T,4,4,teacher,health,reputation,mother,1,2,0,no,yes,no,no,3,2,1,1,5,4,14
+19001173,BEN YAICH,MAJDA,F,20,Houssima,2023,GSEA,Electronique,LE3,T,1,2,other,at_home,home,father,1,2,0,yes,yes,yes,no,4,3,1,1,5,2,9
+20000492,BEN ZIAN,OUSSAMA,M,20,Houssima,2023,GSTR,Reseaux,GT3,T,4,2,services,other,course,mother,1,2,0,no,no,yes,no,4,2,1,1,5,2,15
+20010888,BENABOUD,NADA,F,20,Houssima,2023,GSTR,Reseaux,GT3,T,4,4,health,teacher,other,mother,1,2,0,no,yes,no,no,2,4,2,3,4,6,10
+20007078,BENAMRI,AYMANE,M,20,Tanger,2023,GINF,C++,GT3,T,1,1,services,services,course,father,4,1,0,yes,yes,yes,yes,5,5,5,5,5,6,10
+20000757,BENATTOU,IMANE,F,20,Tanger,2023,GINF,C++,LE3,T,1,2,other,services,reputation,father,1,2,0,yes,yes,yes,no,4,4,1,1,1,4,8
+20000758,BENATTOU,IHSANE,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,health,home,mother,1,3,0,yes,yes,yes,no,3,4,2,4,4,2,10
+19006325,BENBRAHIM,MOHAMED,M,20,Tanger,2023,GSEA,Electronique,LE3,T,4,3,services,services,reputation,father,1,2,0,yes,yes,yes,yes,4,4,2,4,2,0,10
+20007174,BENTAHAR ALAOUI,SALMA,F,20,Taroudant,2023,GIL,Dessin,LE3,T,4,3,teacher,services,course,mother,3,2,0,no,yes,yes,no,5,4,1,2,1,2,16
+19002165,BENTOUFILE,OUSSAMA,M,20,El Jadida,2023,GINF,C++,GT3,A,4,4,other,services,reputation,mother,1,4,0,no,yes,yes,yes,1,3,5,5,3,4,13
+19006814,BOUABID,SALAH EDDINE,M,20,T‚touan,2023,GSTR,Reseaux,GT3,T,3,1,services,other,course,mother,1,4,0,yes,no,yes,no,4,3,1,2,5,4,7
+21012097,BOUADDI,FADWA,F,20,Tanger,2023,GSTR,Reseaux,LE3,T,2,2,health,services,reputation,mother,2,2,0,yes,no,yes,no,4,1,1,3,4,2,8
+20000730,BOUALI,MAROUA,F,20,Tanger,2023,GSEA,Electronique,LE3,T,3,1,other,other,reputation,father,2,4,0,no,no,yes,no,4,4,2,3,3,12,16
+20000732,BOUATLAOUI,NADIA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,1,other,other,reputation,father,2,4,0,no,no,yes,no,4,3,1,1,5,0,13
+20000751,BOUCETTA,MOHAMMED,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,2,other,other,course,mother,1,4,0,no,no,yes,no,3,3,1,1,3,0,10
+19005950,BOUCHOUARI,NIHAL,F,20,Tanger,2023,GSEA,Electronique,GT3,T,1,1,other,other,reputation,mother,1,2,2,yes,no,yes,yes,3,3,2,4,5,2,8
+19006593,BOUDAL,"MOHAMED
+AMINE",M,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,1,other,other,reputation,mother,1,1,0,no,yes,no,no,5,3,2,2,5,2,12
+19006696,BOUFOUCHK,HAMZA,M,20,Tanger,2023,GIL,Dessin,GT3,T,3,3,other,services,home,mother,1,2,0,yes,yes,yes,no,4,3,2,4,5,23,11
+19006654,BOUHADAR,AYA,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,3,teacher,other,home,mother,1,2,0,no,yes,yes,no,4,3,2,3,5,6,9
+19006842,BOUJYDAH,HAMZA,M,20,Tanger,2023,G3EI,Energie,GT3,T,4,0,teacher,other,course,mother,2,4,0,no,yes,yes,no,3,4,1,1,1,8,11
+20002424,BOUKTAIB,SOUFIAN,M,20,Tanger,2023,GINF,C++,GT3,T,2,2,other,other,reputation,mother,1,4,0,no,no,yes,yes,5,2,1,3,3,0,11
+20000771,BOULAID,SARA,F,20,Tanger,2023,GINF,C++,GT3,T,2,1,other,other,home,mother,2,1,3,yes,yes,yes,no,4,5,1,1,3,2,8
+18006988,BOULEMANE,HINDE,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,4,at_home,other,course,mother,1,2,0,no,no,yes,no,2,4,1,2,3,12,5
+19006675,BOURHICH,CHAIMA,F,20,Casablanca,2023,G3EI,Energie,GT3,T,2,3,other,services,course,father,1,1,0,yes,yes,yes,yes,3,2,1,3,3,2,10
+19006653,BOUZAFFOUR,OUSSAMA,M,20,Casablanca,2023,G3EI,Energie,GT3,T,2,3,other,other,home,mother,1,3,0,yes,no,yes,no,5,3,1,2,5,4,11
+20000738,BOUZIAN,INSSAF,F,19,Casablanca,2023,GIL,Dessin,LE3,T,3,2,services,other,reputation,mother,1,2,0,no,no,yes,no,4,4,1,1,5,10,7
+19008157,CHAMAKH,HAFSSA,F,20,Casablanca,2023,GSEA,Electronique,LE3,T,2,2,services,services,home,mother,2,2,0,no,yes,yes,no,5,3,1,3,4,4,15
+20007025,CHANAA,AIMANE,M,20,Casablanca,2023,GINF,C++,GT3,T,1,1,other,other,home,father,1,2,0,no,yes,yes,no,4,3,2,3,4,2,9
+20007161,CHATT,ANAS,M,20,Casablanca,2023,GINF,C++,GT3,T,4,4,services,services,reputation,father,2,2,2,no,no,yes,yes,4,4,2,3,5,6,7
+20000515,CHEAIRI,MANAL,F,20,Casablanca,2023,G3EI,Energie,LE3,T,2,2,at_home,other,course,mother,1,2,0,no,no,no,no,4,3,1,2,2,4,8
+19006678,CHIBOUB,YOUNES,M,20,Casablanca,2023,GIL,Dessin,GT3,T,4,2,other,other,reputation,mother,1,3,0,no,yes,yes,no,5,3,1,3,1,4,13
+19006305,CHICHI,ZINEB,F,20,Tanger,2023,G3EI,Energie,GT3,T,2,2,services,other,reputation,father,2,2,1,no,yes,yes,no,4,4,1,1,3,12,11
+19006663,CHOUAFIA,HIBA,F,20,Tanger,2023,G3EI,Energie,LE3,A,4,4,teacher,health,reputation,mother,1,2,0,no,no,no,no,4,1,3,5,5,18,8
+20004313,DAHRABOU,DOHA,F,20,Taroudant,2023,GINF,C++,GT3,T,3,3,other,other,home,mother,1,3,0,no,no,yes,yes,4,3,1,3,4,0,7
+20007051,DAOUDI,AYA,F,20,El Jadida,2023,GINF,C++,GT3,T,4,3,services,other,reputation,mother,1,1,0,no,yes,yes,no,4,5,1,3,1,4,16
+19009452,DAR AMAR,BADREDDINE,M,20,T‚touan,2023,GSEA,Electronique,LE3,T,3,1,other,other,home,father,1,2,0,yes,no,no,no,3,3,2,3,2,4,7
+19005775,DAR RADI,BILAL,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,2,teacher,services,home,mother,2,2,0,no,yes,yes,no,5,3,1,1,1,0,11
+20000714,DARHOUA,ANAS,M,20,Casablanca,2023,GIL,Dessin,LE3,T,2,2,services,health,reputation,mother,1,4,0,no,yes,yes,no,4,3,1,1,4,6,11
+19006671,DERSAOUI,NADIA,F,20,Casablanca,2023,G3EI,Energie,GT3,T,1,1,at_home,other,home,mother,2,4,1,yes,yes,yes,no,3,1,1,1,1,2,7
+18008677,DIMARCO,"HICHAM
+VINCENZO",M,20,Casablanca,2023,G3EI,Energie,GT3,T,4,3,services,other,reputation,mother,2,1,0,yes,yes,yes,no,3,3,1,1,4,2,11
+20000769,DINE,AHLAM,F,19,Casablanca,2023,GIL,Dessin,GT3,T,2,1,other,other,course,mother,1,2,0,no,no,no,yes,4,3,1,1,5,2,8
+20002432,ECHBERAAL,ANASS,M,20,Casablanca,2023,GSEA,Electronique,GT3,T,4,4,other,other,reputation,mother,1,1,0,no,yes,yes,no,5,3,1,2,1,6,11
+20007072,ED-DAIF,YOUSSEF,M,20,Casablanca,2023,GSEA,Electronique,GT3,T,4,3,other,at_home,course,mother,1,3,0,yes,no,yes,no,5,3,1,1,3,0,7
+20002251,EL  AALOUCH,"MOHAMMED
+YASSINE",M,20,Tanger,2023,GINF,C++,GT3,T,4,4,services,services,other,mother,1,1,0,yes,yes,yes,no,4,5,5,5,4,14,7
+20009913,EL ALAOUI,FATIMA ZAHRAE,F,20,Tanger,2023,GIL,Dessin,GT3,T,4,4,services,teacher,other,father,1,3,0,no,yes,yes,yes,4,4,1,1,4,0,16
+20000782,EL ALILTI,CHAYMAA,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,4,services,other,course,mother,1,1,0,no,yes,yes,no,5,3,1,1,5,4,10
+20000772,EL AMIRI,MAROUA,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,2,services,other,home,mother,2,2,0,yes,no,yes,no,4,3,1,1,2,20,7
+20002670,EL ASSIRI,AHLAM,F,20,Tanger,2023,GINF,C++,GT3,A,3,4,services,other,course,mother,1,2,0,no,yes,yes,no,5,4,1,1,1,0,16
+19005781,EL ATIKI,YOUSSEF,M,20,Tanger,2023,G3EI,Energie,GT3,A,3,3,other,health,reputation,father,1,4,0,yes,no,no,no,4,3,1,1,4,10,10
+19006800,EL ATTAR,IBTISAME,F,20,Tanger,2023,G3EI,Energie,GT3,T,2,2,other,other,course,mother,1,4,0,yes,no,yes,no,5,1,1,1,3,8,7
+20000742,EL AZOUAN,AYA,F,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,other,home,father,1,3,0,no,yes,yes,no,5,3,1,1,5,2,16
+19001287,EL AZRAK,IBTISSAM,F,19,Mohammedia,2023,GSEA,Electronique,GT3,T,4,4,other,other,home,father,4,4,0,no,yes,yes,yes,1,3,3,5,1,6,10
+20000741,EL BAGHDADI,NADA,F,20,Tanger,2023,GINF,C++,LE3,T,4,4,health,health,other,mother,1,3,0,no,yes,yes,yes,5,4,1,1,4,4,14
+20000717,EL BAKKALI,SOUHAILA,F,20,Tanger,2023,GIL,Dessin,LE3,A,4,4,teacher,teacher,course,mother,1,1,0,no,yes,yes,no,5,5,1,1,4,6,18
+20000775,EL BARAKA,NOUHAILA,F,20,Mohammedia,2023,GINF,C++,GT3,T,3,3,services,other,reputation,father,1,3,1,yes,yes,yes,no,4,1,1,1,2,0,7
+19006485,EL BOURY,KARIM,M,20,Mohammedia,2023,GSEA,Electronique,GT3,T,2,2,at_home,other,home,mother,1,2,1,yes,yes,yes,no,3,1,1,1,5,6,10
+20000785,EL BOUZAKHTI,"MOHAMED
+AMINE",M,20,Mohammedia,2023,G3EI,Energie,LE3,T,4,2,teacher,other,course,mother,1,1,0,no,no,yes,no,3,5,1,1,3,10,18
+19005715,EL BRAK,"MOHAMED
+REDA",M,20,Mohammedia,2023,G3EI,Energie,GT3,T,2,1,health,services,reputation,mother,1,2,0,no,yes,yes,yes,5,4,1,1,5,8,9
+20007042,EL FERCHOUNI,SOUKAYNA,F,20,Mohammedia,2023,GSEA,Electronique,GT3,T,4,4,teacher,teacher,course,father,1,2,0,no,yes,yes,no,5,4,1,2,5,2,15
+19001439,EL FICH,RIHAB,F,20,Mohammedia,2023,GINF,C++,GT3,T,4,4,other,teacher,reputation,father,2,2,0,no,yes,no,no,4,4,1,1,2,2,11
+19002131,EL GAID,MUSTAPHA,M,20,Mohammedia,2023,GSTR,Reseaux,GT3,T,3,3,other,services,home,father,2,1,0,no,yes,yes,no,5,4,1,1,5,0,13
+18008774,EL GHALI,YOUNES,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,1,3,other,other,course,father,3,2,1,no,yes,yes,no,5,2,1,4,5,20,9
+20000752,EL GUENNOUNI,MARYAM,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,4,other,other,reputation,father,1,1,0,no,no,yes,no,3,4,1,2,4,6,14
+20000160,EL HABTI,OUMAIMA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,1,2,at_home,services,course,mother,1,2,0,no,no,yes,no,3,2,1,2,1,2,16
+20000780,EL HABTI,NAJOUA,F,20,Tanger,2023,GINF,C++,GT3,T,2,2,services,services,home,father,1,4,0,no,yes,yes,no,5,5,1,2,5,6,16
+18010914,EL HADADI,DINA,F,20,Tanger,2023,GIL,Dessin,LE3,T,2,4,other,health,course,father,2,2,0,no,yes,yes,yes,4,2,1,2,5,2,13
+20003925,EL HADDAD,MOHAMED,M,19,Tanger,2023,GINF,C++,GT3,T,4,4,health,other,course,mother,1,1,0,no,yes,yes,no,3,4,1,4,5,18,14
+20000770,EL HADRI,AMAL,F,20,Tanger,2023,GIL,Dessin,GT3,T,2,2,other,other,home,mother,1,2,0,no,no,yes,yes,5,4,1,1,5,0,8
+19005650,EL HAMZAOUI,FADOUA,F,20,Taroudant,2023,GSTR,Reseaux,GT3,T,3,4,services,services,home,father,1,1,0,yes,no,yes,no,5,5,3,2,5,0,13
+20000755,EL HARRACHY,"ABDERRAHMAN
+E",M,20,El Jadida,2023,GINF,C++,LE3,A,3,4,other,other,home,mother,1,2,0,yes,yes,yes,yes,5,3,1,1,1,0,7
+20010793,EL HARRAK,ISRAE,F,20,T‚touan,2023,GSEA,Electronique,GT3,T,0,1,at_home,other,course,other,1,2,3,no,no,no,no,3,4,1,1,5,2,7
+20002435,EL HARRAK,IMAN,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,2,2,services,other,reputation,mother,1,1,2,no,yes,yes,no,3,3,1,2,4,0,7
+19006380,EL HATTACH,YOUSSEF,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,teacher,teacher,course,mother,1,1,0,no,yes,yes,no,3,5,2,5,4,8,18
+20010877,EL KHACHAF,SOUKAINA,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,4,services,teacher,course,father,2,3,2,no,no,yes,yes,4,2,2,2,5,0,12
+20000778,EL KHATIB,NISSRINE,F,20,Marrakech,2023,G3EI,Energie,GT3,T,1,1,at_home,other,course,mother,3,1,0,no,yes,yes,yes,4,3,1,2,4,0,8
+20002438,EL KHOLFI,MAROUAN,F,20,Marrakech,2023,GSTR,Reseaux,LE3,T,2,2,other,other,course,father,1,1,0,no,no,yes,yes,3,4,1,3,5,12,10
+20000719,EL KOTBI,CHAYMAE,F,20,Marrakech,2023,GSEA,Electronique,GT3,A,3,4,services,other,course,father,1,1,0,no,no,yes,no,3,2,1,4,5,16,12
+19005735,EL KOULFA,HASSANE,F,20,Marrakech,2023,GSEA,Electronique,GT3,T,3,4,at_home,teacher,course,mother,4,2,0,no,no,no,yes,5,3,1,1,5,0,9
+20000716,EL MAFTOUHI,BILAL,M,20,Tanger,2023,GINF,C++,GT3,T,4,4,services,at_home,course,mother,1,3,0,no,yes,yes,yes,4,3,1,1,5,0,11
+19002373,EL MARDI,NAJIYA,F,20,Tanger,2023,GIL,Dessin,GT3,T,3,4,at_home,other,course,mother,3,2,0,no,no,no,no,5,4,2,4,5,0,10
+20007098,EL MASKAOUI,BASMA,F,20,Tanger,2023,GIL,Dessin,GT3,A,3,3,other,other,course,other,2,1,2,no,yes,yes,yes,4,3,1,1,5,0,4
+19006309,EL MASSTI,MOUNIR,M,20,Tanger,2023,GSTR,Reseaux,LE3,T,1,1,services,other,course,mother,1,2,1,no,no,no,yes,4,4,1,3,5,0,14
+19006781,EL MORABET,ILYASS,M,20,Tanger,2023,GIL,Dessin,GT3,T,4,4,teacher,teacher,course,mother,2,1,0,no,yes,yes,no,4,3,1,1,5,0,16
+20006989,EL MOUMOUHI,HOUDA,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,services,course,father,2,4,0,yes,no,yes,no,2,2,1,1,3,0,7
+19006556,EL MRABET,MOHAMMED,M,20,Marrakech,2023,GIL,Dessin,LE3,T,2,2,services,services,reputation,father,2,1,2,no,yes,yes,no,2,3,2,2,2,8,9
+20007067,EL OMARI,IMANE,F,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,teacher,services,course,mother,1,3,0,no,yes,yes,no,4,2,1,1,5,2,9
+19001413,EL YAMLAHI,AICHA,F,20,Tanger,2023,GINF,C++,LE3,T,1,1,at_home,at_home,course,mother,1,1,0,no,no,yes,no,3,4,3,3,1,2,14
+17005965,EL YAZGHI,HAJAR,F,20,Tetouan,2023,GIL,Dessin,GT3,T,2,1,other,other,home,mother,1,1,3,no,no,yes,no,5,4,1,2,5,0,5
+19006830,EL YOUNSSI,ANAS,M,20,Tetouan,2023,G3EI,Energie,GT3,T,1,1,other,services,course,father,1,2,0,no,no,yes,no,4,4,1,2,5,0,8
+20002129,EL YOUSFI,TAHA,M,20,Tetouan,2023,G3EI,Energie,GT3,T,3,2,health,services,home,father,1,2,3,no,no,yes,no,3,3,1,1,3,0,6
+20000736,EL YOUSSFI,HASNAE,F,20,Tetouan,2023,G3EI,Energie,GT3,T,1,2,at_home,other,course,mother,1,2,0,no,no,yes,no,4,3,1,1,5,2,10
+20010570,ELATRASSI,IMANE,F,20,Tetouan,2023,GSTR,Reseaux,GT3,T,4,4,teacher,teacher,course,mother,1,1,0,no,no,yes,yes,3,3,2,1,5,0,7
+20002530,ELATTOUCH,AYA,F,20,Tanger,2023,GSTR,Reseaux,LE3,A,2,1,services,other,course,mother,4,1,3,no,no,yes,no,4,5,2,5,5,0,8
+19001167,ELGRIOUI,YOUSRA,F,20,Tanger,2023,GIL,Dessin,LE3,T,1,1,other,other,course,mother,1,1,3,no,no,yes,yes,2,3,2,5,4,0,6
+20000744,ELKABOUS,MERIEM,F,20,Tanger,2023,G3EI,Energie,LE3,T,2,1,at_home,other,course,mother,1,1,1,no,yes,no,yes,4,4,3,5,5,6,12
+20000759,ENNAJARI,OUMAIMA,F,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,services,reputation,other,2,3,2,no,yes,yes,yes,4,2,2,3,3,8,10
+19006774,ENNIYA,OUMNIA,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,2,services,at_home,home,mother,1,1,3,no,no,yes,yes,4,5,1,1,4,0,5
+19006589,ERRAJI,IMANE,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,4,other,teacher,course,mother,1,1,0,yes,no,no,yes,4,2,1,1,4,0,11
+20002677,ESSOUFIAN,WAFA,F,20,Tanger,2023,GSEA,Electronique,GT3,T,2,3,at_home,services,course,mother,1,2,0,yes,yes,no,no,4,4,1,1,1,2,11
+18008662,FADDOUL,BASMA,F,20,Tanger,2023,GSEA,Electronique,LE3,T,1,2,other,other,reputation,mother,1,1,0,no,no,no,no,2,2,3,3,5,8,16
+20000489,FAIZ,AYOUB,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,1,1,at_home,other,course,mother,3,1,3,no,yes,no,no,5,2,1,5,4,6,9
+20002118,FARKHASS,ABDELKARIM,M,20,Tanger,2023,G3EI,Energie,GT3,T,2,2,at_home,other,course,mother,3,1,0,no,no,no,no,4,2,1,2,3,2,17
+20002662,GHAILAN,SOUKAINA,F,20,Tanger,2023,GIL,Dessin,GT3,T,3,3,other,services,course,father,1,2,1,no,no,yes,yes,4,5,4,4,5,4,10
+19005722,GHAILAN,WIJDANE,F,20,Tanger,2023,GIL,Dessin,LE3,T,2,1,at_home,other,course,mother,2,1,2,no,yes,yes,yes,3,3,2,2,5,0,7
+20000726,GHOMRAN,INSSAF,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,2,other,other,course,mother,2,2,2,yes,no,yes,yes,4,4,1,4,3,6,5
+20000777,GLIOUAL,YASSINE,M,20,Tanger,2023,GINF,C++,LE3,T,1,2,other,other,course,mother,2,1,1,no,yes,no,no,4,4,2,4,5,0,7
+20002431,GUESSIBI,RAWIA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,1,3,at_home,services,course,father,1,1,0,no,no,yes,no,5,3,1,4,2,2,10
+20010865,HABROU,AICHA,F,20,Marrakech,2023,GSEA,Electronique,LE3,T,1,1,other,services,course,mother,4,2,3,no,yes,no,yes,5,3,1,5,5,0,5
+19005836,HAKKANI,SOLAIMANE,M,20,Marrakech,2023,GIL,Dessin,GT3,T,3,2,services,services,course,mother,2,1,1,no,yes,no,no,4,5,1,1,2,16,12
+20002433,HAMDAN,KARIMA,F,20,Marrakech,2023,GINF,C++,GT3,T,2,2,other,other,course,father,1,2,0,no,no,yes,no,4,3,2,4,4,4,10
+20000718,HAMDANE,HAMZA,M,19,Marrakech,2023,GSTR,Reseaux,GT3,T,4,2,health,services,home,father,1,2,0,no,no,yes,yes,4,2,1,1,3,0,14
+19001155,HARMACH,OUMAIMA,F,20,Marrakech,2023,GSEA,Electronique,GT3,T,2,2,other,other,home,mother,1,2,0,no,no,yes,no,5,1,1,1,4,0,6
+20002532,HARRAK,YOUSSEF,M,20,Marrakech,2023,GINF,C++,GT3,T,4,4,health,health,reputation,mother,1,2,0,no,no,yes,yes,4,4,1,1,3,0,14
+19006463,HARRAK,YOUSSEF,M,20,Larache,2023,G3EI,Energie,GT3,T,3,4,other,other,course,father,3,1,2,no,yes,yes,no,3,4,2,4,2,0,6
+19005863,HASNI,NAOUFAL,M,20,Larache,2023,G3EI,Energie,GT3,T,1,0,other,other,reputation,mother,2,2,0,no,yes,yes,yes,4,3,1,1,3,2,13
+20000763,HAYAOUI,MOUAD,M,20,Tanger,2023,GINF,C++,LE3,T,4,4,teacher,other,reputation,mother,1,2,0,no,yes,yes,no,4,4,1,3,5,0,13
+20000740,HIMMI,HAJAR,F,20,Tanger,2023,GINF,C++,GT3,T,1,3,at_home,services,home,mother,1,2,3,no,yes,yes,yes,4,3,1,1,3,0,8
+20002267,HMAMI,YAHYA,M,20,Tanger,2023,GSTR,Reseaux,LE3,T,3,3,other,other,reputation,mother,2,2,0,no,yes,yes,no,4,4,1,1,4,4,10
+19005685,HNIENE,NOUHAILA,F,20,Tanger,2023,GSEA,Electronique,LE3,T,4,3,teacher,other,course,mother,2,2,0,no,yes,yes,no,4,4,4,4,4,4,10
+20000756,HOURADI,ZAINAB,F,20,Larache,2023,G3EI,Energie,GT3,T,2,2,services,other,reputation,mother,2,2,0,no,yes,yes,no,3,4,1,4,5,2,13
+20007077,IBN YAHYA,KAWTHAR,F,20,Larache,2023,GIL,Dessin,GT3,T,3,3,other,other,reputation,father,1,2,0,no,yes,yes,no,4,3,1,4,4,4,6
+20002526,IBN YAICH,FARAH,F,20,Larache,2023,GIL,Dessin,GT3,T,4,2,teacher,services,other,mother,1,1,0,no,yes,yes,yes,4,3,3,4,3,10,10
+20000764,IDIDER,HAYAT,F,20,Larache,2023,GIL,Dessin,GT3,T,4,3,other,other,course,mother,1,2,0,no,yes,yes,yes,5,2,1,1,2,4,10
+19006600,IDMAINE,LATIFA,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,3,teacher,other,home,mother,1,2,0,no,yes,yes,no,3,4,2,3,3,10,9
+20002137,IDRISSI,YASSINE,M,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,other,home,mother,1,2,0,no,yes,yes,yes,4,2,1,2,3,2,12
+20000750,IHBAN,SOUFYANE,M,20,Tanger,2023,GSEA,Electronique,GT3,T,2,4,services,services,reputation,father,1,2,0,no,yes,no,no,5,4,2,3,5,0,16
+20010804,ISMAILI,SALMA,F,20,Tanger,2023,G3EI,Energie,LE3,T,3,3,other,other,reputation,mother,1,2,0,no,yes,yes,yes,5,3,2,3,1,23,9
+20000762,IZELGUE,ABDESSAMAD,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,2,other,other,reputation,mother,1,2,0,no,no,yes,no,1,2,1,2,1,14,12
+20006985,JAADA,ZAHAIRA,F,20,Larache,2023,GINF,C++,GT3,T,3,3,services,services,other,mother,1,2,0,no,yes,yes,yes,4,3,2,3,4,12,12
+20004186,JABRI,SARA,F,20,Larache,2023,GIL,Dessin,GT3,T,1,2,services,services,other,mother,1,1,0,no,yes,yes,yes,3,3,1,2,3,2,11
+19006288,JADIL,SIHAM,F,20,Larache,2023,GIL,Dessin,LE3,T,2,1,other,other,course,mother,1,2,0,no,yes,yes,yes,4,2,1,2,5,0,15
+19006304,JAMIL,SALMA,F,20,Tanger,2023,GSTR,Reseaux,GT3,A,3,3,health,other,reputation,mother,1,2,0,no,no,yes,yes,3,3,1,3,3,6,8
+20000743,JAMOULI,SAAD,M,20,Tanger,2023,GSEA,Electronique,GT3,T,1,2,at_home,other,home,mother,1,2,0,no,no,no,no,3,1,1,5,3,4,8
+20002554,KACHAR,NABIL,M,20,Tanger,2023,GINF,C++,GT3,T,2,3,services,services,course,mother,1,2,0,no,no,yes,no,4,3,1,1,2,10,11
+20002525,KADDI,MOHCINE,M,20,Tanger,2023,G3EI,Energie,GT3,T,1,1,at_home,services,course,mother,1,2,0,no,yes,yes,no,5,3,1,1,3,0,8
+20009742,KDIDAR,HAJAR,F,20,Tanger,2023,GINF,C++,GT3,T,1,2,at_home,services,other,other,2,2,0,no,yes,yes,no,4,4,4,5,5,12,7
+20000768,KHALIL,SOUKAINA,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,3,services,services,reputation,mother,1,1,0,no,yes,yes,no,4,3,3,4,5,8,8
+20006930,KHALLOUFI,AYA,F,20,Casablanca,2023,GINF,C++,GT3,T,2,3,other,other,home,father,2,1,0,no,no,yes,no,5,3,1,1,3,0,13
+18008635,KHAOULAN,ACHRAF,M,20,Casablanca,2023,GSTR,Reseaux,LE3,T,2,4,services,services,course,father,1,2,0,no,yes,yes,yes,4,3,1,1,5,0,14
+20002425,KHARBOUCH,MOHAMED,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,services,teacher,home,mother,1,1,0,no,no,yes,no,5,2,1,2,5,4,17
+20007101,KHEYI,REDA,M,20,Tanger,2023,GSEA,Electronique,LE3,T,3,3,teacher,other,home,father,3,1,0,no,yes,yes,no,3,3,3,5,3,8,9
+19010008,KHOUAZI,BADREDDINE,M,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,services,teacher,home,mother,2,1,1,no,no,yes,no,4,2,2,3,2,20,18
+20000783,KHOUCHAF,"MOHAMED
+AMINE",M,20,Tanger,2023,GSTR,Reseaux,LE3,T,4,4,teacher,teacher,reputation,mother,1,2,0,no,no,yes,no,4,5,1,2,3,0,9
+19006887,L AZIZ,ISRAE,F,20,Casablanca,2023,GSEA,Electronique,GT3,T,4,3,health,other,home,mother,1,2,0,no,yes,yes,no,4,3,1,5,2,2,16
+19006909,L HARRAK,SOKAINA,F,20,Casablanca,2023,GSTR,Reseaux,GT3,T,2,3,other,other,reputation,mother,1,2,0,yes,yes,no,no,4,4,1,3,4,6,8
+20000754,LAABADI,HOUDA,F,20,Houssima,2023,GIL,Dessin,GT3,T,1,1,other,other,course,mother,1,2,0,no,no,no,no,4,4,1,3,1,4,9
+20002239,LAALUI MERBTO,MUSTAPHA,M,20,Houssima,2023,GSEA,Electronique,GT3,T,2,2,other,other,reputation,mother,1,1,0,no,no,yes,no,5,3,1,2,3,18,7
+18008618,LAHJAILY,OUMAIMA,F,20,Houssima,2023,GIL,Dessin,GT3,T,2,2,services,services,reputation,mother,2,4,0,no,yes,yes,no,5,3,1,1,5,6,10
+20007007,LAHMIYED,INES,F,20,Casablanca,2023,GSEA,Electronique,GT3,T,3,4,at_home,services,home,mother,1,3,1,no,no,yes,yes,4,4,3,4,5,28,10
+19002804,LAHOIENI,ABDERRAHIM,M,20,Tanger,2023,GINF,C++,GT3,A,3,1,services,other,course,mother,1,2,3,no,no,yes,no,2,3,2,2,4,5,7
+20007155,LAKNAOUI,AYA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,3,teacher,other,other,mother,1,2,0,no,yes,yes,yes,1,3,1,1,1,10,11
+19001375,LAKRAMAT,HASNAE,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,1,1,at_home,other,home,mother,2,1,0,no,no,no,no,4,3,1,4,5,6,9
+19006468,LALOUCHI,IMAD,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,3,teacher,other,reputation,mother,2,3,0,no,yes,yes,yes,4,4,1,1,4,6,7
+20000085,LAMRINI,TASNIME,F,20,Casablanca,2023,GSTR,Reseaux,GT3,T,3,3,other,other,reputation,other,1,4,0,no,yes,yes,no,4,3,1,2,3,10,8
+20000381,LARHMICH,MERIEM,F,20,Houssima,2023,G3EI,Energie,LE3,T,4,4,services,other,home,mother,1,2,0,no,no,yes,yes,5,3,4,5,3,13,12
+19006822,LEFRIYEKH,RIM,F,20,Houssima,2023,G3EI,Energie,GT3,A,2,2,other,other,reputation,mother,1,2,0,yes,no,yes,no,3,3,1,1,4,0,12
+21012112,LESDIF,DEYAE,M,20,Tanger,2023,G3EI,Energie,GT3,T,2,2,services,other,home,mother,1,2,1,no,yes,yes,no,4,4,2,4,5,15,6
+19006635,LOUKILI,WALID,M,20,Agadir,2023,G3EI,Energie,LE3,T,4,4,services,other,other,mother,1,1,0,no,no,no,no,5,2,1,2,3,12,8
+19006645,LOUKILI,KHALID,M,20,Houssima,2023,G3EI,Energie,LE3,T,3,2,other,other,reputation,mother,2,2,0,no,no,yes,no,4,4,1,3,1,2,14
+19006848,LOULIDI,IKRAM,F,20,Larache,2023,GSTR,Reseaux,GT3,T,4,3,other,other,reputation,mother,1,2,2,no,no,yes,yes,3,4,2,4,1,22,6
+19006668,MAAROUFI,KENZA,F,20,Meknes,2023,GSTR,Reseaux,LE3,T,3,3,services,health,home,father,1,2,1,no,no,yes,no,3,2,2,4,4,13,6
+20000781,MADDAH,"FATIMA EZ-
+ZAHRA",F,20,Temera,2023,GIL,Dessin,GT3,T,2,3,at_home,other,home,father,2,1,0,no,no,no,no,3,3,1,4,3,3,7
+19000774,MAHJOUBI,KAOUTAR,F,20,Tanger,2023,GIL,Dessin,GT3,T,2,2,at_home,at_home,course,mother,1,3,0,no,yes,yes,no,4,3,1,1,4,4,9
+19005714,MAKHCHAN,MOSAAB,M,20,Tanger,2023,GIL,Dessin,GT3,T,2,1,at_home,services,reputation,mother,2,2,0,no,yes,yes,no,4,2,1,2,5,2,6
+20010876,MAMMOU,FATIMA ZAHRA,F,20,Tanger,2023,GIL,Dessin,GT3,T,1,1,at_home,other,reputation,mother,1,3,1,no,yes,no,yes,4,3,1,1,5,0,6
+19006019,MANI,ADAM,M,20,Tanger,2023,GIL,Dessin,GT3,T,2,3,services,teacher,other,mother,1,2,0,yes,no,yes,no,2,3,1,1,3,2,16
+19002530,MEGRINI,HADIL,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,2,2,other,other,home,mother,2,2,0,no,no,yes,no,3,3,5,5,4,0,12
+19006834,MESKAOUI,FATIMEZZAHRA,F,20,Casablanca,2023,GSTR,Reseaux,GT3,T,4,4,teacher,services,home,mother,1,3,0,no,yes,yes,no,5,3,1,1,5,0,13
+20002517,MEZENOUD,NADA,F,20,Houssima,2023,GSTR,Reseaux,GT3,T,3,1,other,other,reputation,mother,1,2,1,no,yes,yes,yes,5,3,1,1,4,16,9
+20000042,MOUCHFI,MARWA,F,20,Houssima,2023,GSTR,Reseaux,GT3,T,3,2,other,other,course,mother,1,2,0,no,yes,yes,no,5,3,1,3,3,10,16
+19005712,MOUHIB,LAMYAE,F,20,Tanger,2023,GSTR,Reseaux,LE3,T,2,3,services,services,reputation,father,1,2,0,no,no,yes,no,5,3,1,3,3,2,12
+19005867,MOUHOUB,NADA,F,20,Agadir,2023,G3EI,Energie,LE3,T,2,1,at_home,other,course,mother,4,2,0,yes,yes,yes,yes,4,3,4,5,3,14,10
+20000748,MOUHSSINE,MANAL,F,20,Houssima,2023,G3EI,Energie,GT3,A,2,1,other,other,course,mother,2,3,0,no,yes,yes,yes,3,2,1,2,3,10,12
+20000731,MOUNTASSIR,REDA,M,20,Larache,2023,G3EI,Energie,LE3,T,4,3,health,other,reputation,father,1,2,0,no,yes,yes,yes,3,2,1,2,3,14,13
+19006708,MOUTTAKI,ABIR,F,20,Larache,2023,G3EI,Energie,GT3,T,2,2,other,other,course,father,2,2,0,no,yes,yes,no,4,5,1,1,1,4,11
+19006554,NADIR,MOBARAK,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,4,teacher,teacher,reputation,mother,1,2,0,yes,yes,yes,yes,4,5,1,3,2,14,11
+19005676,NAHI,AYMANE,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,4,health,other,reputation,father,1,2,0,no,yes,yes,no,4,2,2,4,1,2,14
+19006501,NAHJI,AYOUB,M,20,Casablanca,2023,GSTR,Reseaux,LE3,T,1,1,other,other,home,mother,2,2,0,no,no,yes,no,3,4,1,1,5,18,9
+20000513,NAYMA,OMAYMA,F,20,Houssima,2023,GINF,C++,GT3,T,3,2,at_home,other,reputation,mother,2,3,0,no,yes,yes,yes,5,3,1,3,2,10,11
+20000484,NBIHI,ILYASS,M,20,Larache,2023,GIL,Dessin,LE3,T,2,2,other,other,home,father,1,2,0,no,yes,yes,yes,4,4,5,5,4,4,14
+19006621,NOUR EL HADI,AMINE,M,20,Larache,2023,GIL,Dessin,GT3,T,2,1,other,other,home,mother,1,1,0,no,no,yes,yes,4,5,1,1,5,20,13
+19006387,OUHAMI,ZAYNAB,F,20,Larache,2023,GIL,Dessin,GT3,T,2,1,at_home,services,course,mother,3,2,0,no,yes,no,no,2,1,1,1,3,2,13
+20000486,OUIDADI,SALMA,F,20,Larache,2023,GSTR,Reseaux,GT3,T,2,2,other,services,reputation,father,1,2,1,no,no,yes,no,5,5,3,5,2,0,7
+20007002,OUIDADI,ABDELLAH,M,20,Larache,2023,GSTR,Reseaux,LE3,T,4,3,health,other,course,mother,2,2,0,no,yes,yes,yes,2,5,1,4,5,14,12
+20002244,OURIAGHLI,YASMINE,F,20,Tanger,2023,GSTR,Reseaux,LE3,A,4,4,teacher,other,course,mother,2,2,0,no,no,yes,no,3,3,2,3,4,2,10
+20002134,OURIAGHLI TAOUIL,DOUAE,F,20,Tanger,2023,GSTR,Reseaux,LE3,T,4,3,teacher,other,course,mother,1,1,0,no,yes,yes,no,5,4,1,1,3,0,6
+20002252,OUTAHMIDIT,LAMIAA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,4,services,services,course,mother,1,1,0,no,yes,yes,no,5,3,1,2,5,0,13
+20006997,OUZAL,NOUR ELHOUDA,F,20,Tanger,2023,G3EI,Energie,GT3,T,2,1,other,other,course,other,2,3,0,no,no,yes,yes,4,4,1,1,3,0,7
+19002333,RACHIDI,AYA,F,20,Tanger,2023,G3EI,Energie,GT3,T,2,1,other,other,course,mother,3,1,0,no,no,yes,no,4,3,1,1,4,6,18
+20002426,RADI,OUSSAMA,M,20,Tanger,2023,G3EI,Energie,GT3,T,2,3,other,other,course,father,2,1,0,no,no,yes,no,5,2,1,1,2,4,12
+20000712,RAHMANI KEHAL,WALID,M,20,Tanger,2023,G3EI,Energie,GT3,T,3,1,services,services,other,mother,1,1,3,no,no,yes,yes,5,4,5,5,1,16,6
+21013249,RAKACHI,SOUKAINA,F,20,Casablanca,2023,GSTR,Reseaux,LE3,T,3,3,other,services,course,mother,1,2,1,no,no,yes,yes,4,3,1,3,5,8,3
+20007695,RANBOUK,LAMIAE,F,20,Casablanca,2023,GSTR,Reseaux,GT3,T,0,2,other,other,other,mother,1,1,0,no,no,yes,no,4,3,2,4,5,0,13
+20000715,RASIM,MAJD,M,20,Casablanca,2023,GSTR,Reseaux,GT3,T,3,2,services,other,course,mother,2,1,1,no,no,yes,no,4,4,2,4,5,0,6
+20007030,RAZIKI,MERYEM,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,3,at_home,other,reputation,other,3,2,0,yes,no,yes,no,5,3,1,3,2,6,7
+19006672,RITI,IMANE,F,20,Tanger,2023,G3EI,Energie,GT3,T,2,1,services,services,other,mother,1,1,1,no,no,yes,no,3,2,2,5,5,4,6
+20000723,RMIDI,SOUKAINA,F,20,Casablanca,2023,G3EI,Energie,GT3,T,2,1,other,other,course,mother,2,1,0,no,yes,no,no,3,3,1,3,3,0,8
+20002127,RMILI,RAJAA,F,20,Houssima,2023,G3EI,Energie,GT3,T,2,1,other,other,course,mother,1,1,0,no,no,yes,no,4,4,2,4,5,0,8
+20002122,SAHBAOUI,AHMED,M,20,Larache,2023,G3EI,Energie,LE3,T,1,1,health,other,course,mother,2,1,1,no,yes,yes,no,4,4,1,2,5,2,7
+20000784,SAIDI,YAHYA,M,20,Casablanca,2023,GSEA,Electronique,LE3,T,4,2,teacher,services,reputation,mother,1,4,0,no,yes,yes,no,4,2,1,1,4,6,14
+19005710,SAIDI,MOHAMMED,M,20,Casablanca,2023,GIL,Dessin,LE3,A,4,3,services,at_home,reputation,mother,1,2,0,no,no,yes,no,4,3,1,1,1,12,11
+20000721,SAMADI,IMAD,M,20,Tanger,2023,GIL,Dessin,GT3,T,2,1,other,other,home,mother,1,2,0,no,yes,yes,no,5,2,1,2,4,8,15
+20007099,SEGHIR,MOHAMMED,M,20,Tanger,2023,GIL,Dessin,LE3,T,2,2,services,services,course,father,1,4,0,no,yes,yes,yes,3,4,1,1,2,0,10
+20007095,SEHLI,WAIL,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,3,services,other,home,father,1,2,0,no,no,yes,yes,3,1,1,3,2,21,17
+20009800,SETTINI,SAAD,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,4,3,teacher,other,course,mother,1,2,0,no,no,yes,no,4,3,1,1,3,2,8
+20002430,SGHIR,NOUHAILA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,2,other,other,course,mother,1,3,0,no,yes,no,no,5,3,1,1,3,1,13
+19006684,SMILI,JOUHARA,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,3,other,other,home,mother,1,3,0,no,yes,no,no,3,2,1,1,4,4,10
+21011788,SNOUSSI,HAMZA,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,2,2,at_home,services,home,mother,1,3,0,no,yes,yes,yes,4,3,1,1,3,0,9
+19006231,STITOU,HAJAR,F,20,Tanger,2023,G3EI,Energie,LE3,A,3,4,other,other,reputation,mother,2,2,0,no,yes,yes,no,4,2,3,4,1,13,17
+19005128,TABANDI,HAKIMA,F,20,Tanger,2023,G3EI,Energie,GT3,T,3,1,services,other,other,mother,1,2,0,no,yes,yes,yes,5,4,3,4,5,2,9
+20009926,TAMISS,FATIMA ZAHRA,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,4,teacher,other,reputation,mother,2,2,0,no,yes,yes,no,4,3,2,2,4,8,12
+20002420,TATERKINE,HANANE,F,20,Tanger,2023,G3EI,Energie,GT3,T,4,2,health,other,reputation,father,1,2,0,no,yes,yes,yes,5,4,1,3,5,10,10
+20007014,TAYEF,HAYAT,F,20,Tanger,2023,GSTR,Reseaux,GT3,T,2,1,other,other,reputation,mother,2,2,0,no,no,yes,yes,4,3,1,2,3,0,6
+18008751,TIOUTI,ABDELHADI,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,3,3,other,services,home,other,1,2,2,no,yes,yes,no,4,3,3,3,5,15,9
+20000765,TOURABI,OUSSAMA,M,20,Tanger,2023,GSTR,Reseaux,GT3,T,2,3,other,services,reputation,father,1,4,0,no,yes,yes,yes,4,5,1,3,2,4,15
+20000495,ZAGHDAD,OUISSAME,M,20,Tanger,2023,GSEA,Electronique,LE3,T,1,1,other,other,home,mother,2,2,0,no,no,no,no,4,4,1,1,3,2,11
+19005615,ZAHIDI,KAOUTAR,F,20,Tanger,2023,G3EI,Energie,GT3,T,1,2,at_home,at_home,home,mother,1,2,0,no,yes,no,yes,3,5,2,2,1,2,15
+19006904,ZAOUI,AYA,F,20,Casablanca,2023,G3EI,Energie,GT3,T,2,4,at_home,health,reputation,mother,2,2,0,no,no,yes,yes,4,3,1,1,1,2,10
+20002123,ZAOUI,OUSSAMA,M,20,Tanger,2023,GINF,C++,LE3,T,2,2,services,other,course,mother,2,2,0,yes,no,yes,yes,4,4,2,3,5,6,12
+18006915,ZARRY,ALI,M,20,Casablanca,2023,GSTR,Reseaux,GT3,A,3,2,other,services,home,mother,2,2,0,no,no,yes,yes,4,1,1,1,5,32,10
+20002667,ZINE DINE,FADOUA,F,20,Tanger,2023,GSEA,Electronique,GT3,T,4,4,teacher,services,home,mother,2,1,0,no,yes,yes,no,3,2,1,4,3,22,9
+20002502,ZOUAK,MARYAM,F,20,Tanger,2023,GIL,Dessin,GT3,T,4,4,health,health,reputation,father,1,2,1,yes,yes,yes,yes,2,4,1,1,4,15,9
+20000491,ZOUAKI,MARIA,F,20,Tanger,2023,G3EI,Energie,LE3,T,4,3,teacher,services,course,mother,2,1,0,no,yes,yes,no,4,2,1,2,1,8,10
+21012196,ZOUAKI,HOUDA,F,20,Casablanca,2023,GSEA,Electronique,LE3,A,4,1,services,other,home,mother,2,1,0,no,yes,yes,yes,4,5,2,4,5,30,8
