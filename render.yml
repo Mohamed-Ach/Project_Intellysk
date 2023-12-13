@@ -5,3 +5,10 @@ services:
     buildCommand: npm install && npm run build
     startCommand: node build/index.js
     
+
+
+
+# Dark Blue:  #0b66ff    
+# Medium Blue: #3f8eff
+# Light Blue: #c7e2ff
+# White Blue: #f3f6ff
