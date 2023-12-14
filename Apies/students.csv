@@ -1,0 +1,48 @@
+Numero appoge,Last Name,First Name,sex,age,City,Annee,Filier,Matiere,famsize,Pstatus,Medu,Fedu,Mjob,Fjob,reason,guardian,traveltime,studytime,failures,schoolsup,activities,internet,romantic,famrel,freetime,Dciga,Wciga,health,absences,CC1,CC2,Note_Final
+20000773,ABETIOU,SOFIANE,M,20,Larache,2023,GINF,C++,LE3,T,4,3,services,other,reputation,mother,1,2,0,no,yes,yes,no,5,4,1,2,5,10,15,10,12.5
+19001211,ACHERNAN,MOHAMED,M,20,Tanger,2023,GINF,C++,LE3,T,4,4,health,services,course,father,1,1,0,no,yes,yes,no,4,3,1,2,5,2,13,18,15.5
+19001137,AFOUD,HIND,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,other,course,mother,2,2,0,no,no,yes,no,5,4,1,2,3,2,13,17,15
+20000734,AIT OUKHADOU,SELMA,F,20,Casablanca,2023,GINF,C++,GT3,T,4,3,teacher,other,reputation,mother,1,2,0,no,no,yes,no,4,4,1,1,1,0,17,16,16.5
+20000761,AKIIRNE,AMAL,F,20,Casablanca,2023,GINF,C++,GT3,T,2,4,services,health,course,mother,1,3,0,yes,yes,yes,no,4,3,1,1,5,2,10,15,12.5
+19001276,AMHAOUECH,WIAM,F,20,Mohammedia,2023,GINF,C++,LE3,A,3,4,services,other,home,mother,1,2,0,yes,yes,yes,no,5,3,6,3,5,4,11,7,9
+20001244,AMINE,TAHA,M,20,Taroudant,2023,GINF,C++,GT3,T,4,4,teacher,teacher,home,mother,1,2,0,no,yes,yes,yes,4,4,5,5,5,16,10,4,7
+20000493,ARRAB,HAFSA,F,20,Bni Mellal,2023,GINF,C++,LE3,T,3,3,other,other,course,mother,1,2,0,no,yes,yes,no,5,3,0,0,2,0,18,19,18.5
+20006988,BAJJI,AMINE,M,20,Mohammedia,2023,GINF,C++,GT3,T,4,4,services,teacher,course,father,1,2,0,no,yes,yes,no,4,3,1,1,5,2,19,15,17
+20007078,BENAMRI,AYMANE,M,20,Tanger,2023,GINF,C++,GT3,T,1,1,services,services,course,father,4,1,0,yes,yes,yes,yes,5,5,5,5,5,6,10,10,10
+20000757,BENATTOU,IMANE,F,20,Tanger,2023,GINF,C++,LE3,T,1,2,other,services,reputation,father,1,2,0,yes,yes,yes,no,4,4,1,1,1,4,8,16,12
+20000758,BENATTOU,IHSANE,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,health,home,mother,1,3,0,yes,yes,yes,no,3,4,2,4,4,2,10,13,11.5
+19002165,BENTOUFILE,OUSSAMA,M,20,El Jadida,2023,GINF,C++,GT3,A,4,4,other,services,reputation,mother,1,4,0,no,yes,yes,yes,1,3,5,5,3,4,13,13,13
+20002424,BOUKTAIB,SOUFIAN,M,20,Tanger,2023,GINF,C++,GT3,T,2,2,other,other,reputation,mother,1,4,0,no,no,yes,yes,5,2,5,3,3,3,11,8,9.5
+20000771,BOULAID,SARA,F,20,Tanger,2023,GINF,C++,GT3,T,2,1,other,other,home,mother,2,1,3,yes,yes,yes,no,4,5,1,1,3,2,18,13,14.5
+20007025,CHANAA,AIMANE,M,20,Casablanca,2023,GINF,C++,GT3,T,1,1,other,other,home,father,1,2,0,no,yes,yes,yes,4,3,2,3,4,2,9,10,9.5
+20007161,CHATT,ANAS,M,20,Casablanca,2023,GINF,C++,GT3,T,4,4,services,services,reputation,father,2,2,2,no,no,no,yes,4,4,7,4,5,6,7,10,8.5
+20004313,DAHRABOU,DOHA,F,20,Taroudant,2023,GINF,C++,GT3,T,3,3,other,other,home,mother,1,3,0,no,no,yes,no,4,3,0,0,5,0,17,17,17
+20007051,DAOUDI,AYA,F,20,El Jadida,2023,GINF,C++,GT3,T,4,3,services,other,reputation,mother,1,1,0,no,yes,yes,no,4,5,1,3,1,4,16,14,15
+20002251,EL  AALOUCH,"MOHAMMED
+YASSINE",M,20,Tanger,2023,GINF,C++,GT3,T,4,4,services,services,other,mother,1,1,0,yes,yes,yes,yes,4,5,5,5,4,14,7,4,5.5
+20002670,EL ASSIRI,AHLAM,F,20,Tanger,2023,GINF,C++,GT3,A,3,4,services,other,course,mother,1,2,0,no,yes,yes,no,5,4,1,1,1,0,16,16,16
+20000742,EL AZOUAN,AYA,F,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,other,home,father,1,3,0,no,yes,yes,no,5,3,1,1,5,2,16,13,14.5
+20000741,EL BAGHDADI,NADA,F,20,Tanger,2023,GINF,C++,LE3,T,4,4,health,health,other,mother,1,3,0,no,yes,yes,no,5,4,1,1,4,4,14,13,13.5
+20000775,EL BARAKA,NOUHAILA,F,20,Mohammedia,2023,GINF,C++,GT3,T,3,3,services,other,reputation,father,1,3,1,yes,yes,yes,yes,4,1,9,7,2,0,7,10,8.5
+19001439,EL FICH,RIHAB,F,20,Mohammedia,2023,GINF,C++,GT3,T,4,4,other,teacher,reputation,father,2,2,0,no,yes,no,no,4,4,1,1,2,2,11,17,14
+20000780,EL HABTI,NAJOUA,F,20,Tanger,2023,GINF,C++,GT3,T,2,2,services,services,home,father,1,4,0,no,yes,yes,no,5,5,1,2,5,6,16,8,12
+20003925,EL HADDAD,MOHAMED,M,19,Tanger,2023,GINF,C++,GT3,T,4,4,health,other,course,mother,1,1,0,no,yes,yes,yes,3,4,1,4,5,18,4,4,4
+20000755,EL HARRACHY,"ABDERRAHMAN
+E",M,20,El Jadida,2023,GINF,C++,LE3,A,3,4,other,other,home,mother,1,2,0,yes,yes,yes,no,5,3,0,0,1,0,18,19,18.5
+20000716,EL MAFTOUHI,BILAL,M,20,Tanger,2023,GINF,C++,GT3,T,4,4,services,at_home,course,mother,1,3,0,no,yes,yes,no,4,3,1,1,5,0,11,18,14.5
+20006989,EL MOUMOUHI,HOUDA,F,20,Tanger,2023,GINF,C++,GT3,T,4,3,teacher,services,course,father,2,4,0,yes,no,yes,no,2,2,1,1,3,0,17,15,16
+19001413,EL YAMLAHI,AICHA,F,20,Tanger,2023,GINF,C++,LE3,T,1,1,at_home,at_home,course,mother,1,1,0,no,no,yes,no,3,4,3,3,1,2,14,14,14
+20000759,ENNAJARI,OUMAIMA,F,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,services,reputation,other,2,3,2,no,yes,yes,yes,4,2,2,3,3,8,10,5,7.5
+20000777,GLIOUAL,YASSINE,M,20,Tanger,2023,GINF,C++,LE3,T,1,2,other,other,course,mother,2,1,1,no,yes,no,no,4,4,2,4,5,0,16,15,15.5
+20002433,HAMDAN,KARIMA,F,20,Marrakech,2023,GINF,C++,GT3,T,2,2,other,other,course,father,1,2,0,no,no,yes,yes,4,3,2,4,4,4,10,13,11.5
+20002532,HARRAK,YOUSSEF,M,20,Marrakech,2023,GINF,C++,GT3,T,4,4,health,health,reputation,mother,1,2,0,no,no,yes,no,4,4,1,1,3,0,14,16,15
+20000763,HAYAOUI,MOUAD,M,20,Tanger,2023,GINF,C++,LE3,T,4,4,teacher,other,reputation,mother,1,2,0,no,yes,yes,no,4,4,1,3,5,0,13,16,14.5
+20000740,HIMMI,HAJAR,F,20,Tanger,2023,GINF,C++,GT3,T,1,3,at_home,services,home,mother,1,2,3,no,yes,yes,no,4,3,1,1,3,0,10,19,14.5
+20002137,IDRISSI,YASSINE,M,20,Tanger,2023,GINF,C++,GT3,T,3,3,services,other,home,mother,1,2,0,no,yes,yes,no,4,2,1,2,3,2,12,18,15
+20006985,JAADA,ZAHAIRA,F,20,Larache,2023,GINF,C++,GT3,T,3,3,services,services,other,mother,1,2,0,no,yes,yes,yes,4,3,2,3,4,12,7,4,6
+20002554,KACHAR,NABIL,M,20,Tanger,2023,GINF,C++,GT3,T,2,3,services,services,course,mother,1,2,0,no,no,yes,yes,4,3,1,1,2,10,11,3,7
+20009742,KDIDAR,HAJAR,F,20,Tanger,2023,GINF,C++,GT3,T,1,2,at_home,services,other,other,2,2,0,no,yes,yes,yes,4,4,4,5,5,12,7,5,6.5
+20006930,KHALLOUFI,AYA,F,20,Casablanca,2023,GINF,C++,GT3,T,2,3,other,other,home,father,2,1,0,no,no,yes,no,5,3,1,1,3,0,15,17,16
+19002804,LAHOIENI,ABDERRAHIM,M,20,Tanger,2023,GINF,C++,GT3,A,3,1,services,other,course,mother,1,2,3,no,no,yes,yes,2,3,2,2,4,5,7,18,12.5
+20000513,NAYMA,OMAYMA,F,20,Houssima,2023,GINF,C++,GT3,T,3,2,at_home,other,reputation,mother,2,3,0,no,yes,yes,yes,5,3,1,3,2,10,11,7,9
+20002123,ZAOUI,OUSSAMA,M,20,Tanger,2023,GINF,C++,LE3,T,2,2,services,other,course,mother,2,2,0,yes,no,yes,yes,4,4,2,3,5,6,12,15,13.5
