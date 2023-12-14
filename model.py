@@ -81,14 +81,14 @@ df['Fjob'] = df['Fjob'].str.strip()  # Supprime les espaces avant et après
 df['Fjob'] = df['Fjob'].map(Fjob)
 
 
-reason = {
+reasoon = {
     "home" : 0,
     "course":1,
     "reputation":2,
     "other":3
 }
 df['reason'] = df['reason'].str.strip()  # Supprime les espaces avant et après
-df['reason'] = df['reason'].map(reason)
+df['reason'] = df['reason'].map(reasoon)
 
 guardian = {
     "mother" : 0,
