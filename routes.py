@@ -30,9 +30,9 @@ async def get_students(apogee: int, student_data: Dict[str, Any]):
     return {"Numero Apogee": apogee, "Expected Mark": _model.predict_single_student(apogee, student_data)}
 
 
-@router.get("/students/gender", response_model=Dict[str, int])
-async def bar_gender():
-    return schema.get_students_gender(students_list)
+@router.get("/students/status", response_model=Dict[str, int])
+async def bar_status():
+    return schema.get_students_status(students_list)
 
 
 @router.get("/students/internet_use", response_model=Dict[str, int])
@@ -40,12 +40,12 @@ async def using_internet():
     return schema.get_students_internet(students_list)
 
 
-@router.get("/students/absence", response_model=List[Dict[int, int]])
+@router.get("/students/absence", response_model=Dict[int, int])
 async def effects_absence():
     return schema.get_students_absence(students_list)
 
 
-@router.get("/students/cigarette_use", response_model=List[Dict[int, int]])
+@router.get("/students/cigarette_use", response_model=Dict[int, int])
 async def effects_cigarette():
     return schema.get_daily_cigarettes(students_list)
 
@@ -53,3 +53,5 @@ async def effects_cigarette():
 @router.get("/students/romantics", response_model=Dict[str, int])
 async def in_relationship():
     return schema.get_students_romantics(students_list)
+
+

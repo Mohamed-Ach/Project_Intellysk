@@ -22,10 +22,17 @@ def merge_data_model(students_list: list[dict], predictions_list: list[float]) -
     return students_list
 
 
-def get_students_gender(students_list: list[dict]) -> dict:
+def get_students_status(students_list: list[dict]) -> dict:
+    male_success = len([student for student in students_list if student.get("sex") == "M" and student.get("Mark") >= 12])
+    female_success = len([student for student in students_list if student.get("sex") == "F" and student.get("Mark") >= 12])
+    male_non_success = len([student for student in students_list if student.get("sex") == "M" and student.get("Mark") < 12])
+    female_non_success = len([student for student in students_list if student.get("sex") == "F" and student.get("Mark") < 12])
+
     return {
-        "Males": len([student for student in students_list if student.get("sex") == "M"]),
-        "Females": len([student for student in students_list if student.get("sex") == "F"])
+        "Male_Success": male_success,
+        "Female_Success": female_success,
+        "Male_Non_Success": male_non_success,
+        "Female_Non_Success": female_non_success
     }
 
 
